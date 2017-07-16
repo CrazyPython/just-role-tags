@@ -20,6 +20,8 @@ Desktop Apps:
 
 3. (optional) Edit the SVG code to use the role name of your choice.
 
+If this was useful to you, star this repo!
+
 ##  Etc.
 
 If you want a credit using a new icon, [open an issue](github.com/CrazyPython/just-credits/issues). I'll happily do it for you.
