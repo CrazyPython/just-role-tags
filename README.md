@@ -28,8 +28,8 @@ If this was useful to you, star this repo!
 
 1. [Find an Ionicon that you want to use](https://infinitered.github.io/ionicons-version-3-search/).
 2. [Copy the CSS escape into this tool and convert it to a character](https://r12a.github.io/apps/conversion/).
-3. [Pop that character into the generator and type in the role name you desire](https://crazypython.github.io/just-credits/)
-4. Right Click > Inspect Element > Copy the generated SVG code 
+3. [Pop that character into the generator and type in the role name you desire](https://crazypython.github.io/just-role-tags/)
+4. Right Click > Inspect Element > Copy the generated SVG code
 
 ##  Etc.
 
