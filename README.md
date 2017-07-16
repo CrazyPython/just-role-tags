@@ -6,7 +6,7 @@ Beautiful credits by and for developers.
 
 ## Example
 
-![](https://i.imgur.com/ySsDuzC.png)
+![](https://i.imgur.com/fdL6z3G.png)
 
 ## Usage
 
