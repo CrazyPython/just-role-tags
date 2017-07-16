@@ -1,6 +1,6 @@
 # Just Credits
 
-[![GitHub stars](https://img.shields.io/github/stars/crazypython/just-credits.svg?style=social&label=Star)](https://github.com/bevacqua/awesome-badges) [![License](https://img.shields.io/badge/license-CC--BY%204.0-16161d.svg)](https://creativecommons.org/licenses/by/4.0/) [![Say Thanks](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CrazyPython)
+![GitHub stars](https://img.shields.io/github/stars/crazypython/just-credits.svg?style=social&label=Stars) [![License](https://img.shields.io/badge/license-CC--BY%204.0-16161d.svg)](https://creativecommons.org/licenses/by/4.0/) [![Say Thanks](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CrazyPython)
 
 Beautiful credits by and for developers.
 
