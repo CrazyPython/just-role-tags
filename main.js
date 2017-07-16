@@ -39,4 +39,4 @@ document.addEventListener("DOMContentLoaded", function(event) {
     document.getElementById("result").innerHTML = generate(icon, text);
   }
   update();
-}
+})
