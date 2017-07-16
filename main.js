@@ -26,17 +26,18 @@ var template = `<?xml version="1.0" encoding="UTF-8"?>
         </g>
     </g>
 </svg>`;
-document.addEventListener("DOMContentLoaded", function(event) { 
-  function generate(icon, text) {
-    return template.format(text, icon);
-  }
+function generate(icon, text) {
+  return template.format(text, icon);
+}
 
+function update() {
   var icon_tag = document.getElementsByTagName("input")[0];
   var text_tag = document.getElementsByTagName("input")[1];
-  function update() {
-    var icon = icon_tag.value;
-    var text = text_tag.value;
-    document.getElementById("result").innerHTML = generate(icon, text);
-  }
+  var icon = icon_tag.value;
+  var text = text_tag.value;
+  document.getElementById("result").innerHTML = generate(icon, text);
+}
+
+document.addEventListener("DOMContentLoaded", function(event) { 
   update();
 })
