@@ -14,7 +14,7 @@ Desktop Apps:
 
 1. **Desktop/Mobile Apps:** Embed [ionicons.ttf](https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/fonts/ionicons.ttf) and [roboto.ttf](https://github.com/cdnjs/cdnjs/blob/master/ajax/libs/materialize/0.82/font/roboto/Roboto-Light.ttf?raw=true) on your computer/site/application.
 
-   **Web Apps:** Embed [ionicons.min.css](https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css) (CDNJS) and [roboto.css](https://fonts.googleapis.com/css?family=Roboto:300) (Google Fonts)
+   **Web Apps:** Embed [ionicons.min.css](https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css) (CDNJS) and [roboto.css](https://fonts.googleapis.com/css?family=Roboto:300) (Google Fonts).
 
 2. Download [one of the SVGs](https://github.com/CrazyPython/just-credits/tree/master/assets).
 
