@@ -1,8 +1,8 @@
-# Just Credits
+# Just Role Tags
 
 ![GitHub stars](https://img.shields.io/github/stars/crazypython/just-credits.svg?style=social&label=Stars) [![License](https://img.shields.io/badge/license-CC--BY%204.0-16161d.svg)](https://creativecommons.org/licenses/by/4.0/) [![Say Thanks](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CrazyPython)
 
-Beautiful credits by and for developers.
+Beautiful role tags by and for developers.
 
 ## Demo
 
@@ -24,8 +24,13 @@ If this was useful to you, star this repo!
 
 *Gitcdn.xyz URL. Ionicons 3, the version used, is not known to be hosted on a major CDN. If you are running a production app, you should consider hosting it yourself.
 
-##  Etc.
+## Using the (cumbersome) Generator
 
-If you want a credit using a new icon, [open an issue](github.com/CrazyPython/just-credits/issues). I'll happily do it for you.
+1. [Find an Ionicon that you want to use](https://infinitered.github.io/ionicons-version-3-search/).
+2. [Copy the CSS escape into this tool and convert it to a character](https://r12a.github.io/apps/conversion/).
+3. [Pop that character into the generator and type in the role name you desire](https://crazypython.github.io/just-credits/)
+4. Right Click > Inspect Element > Copy the generated SVG code 
+
+##  Etc.
 
 Uses [Ionicons](https://ionicframework.com/docs/ionicons/) (MIT) and [Roboto](https://fonts.google.com/specimen/Roboto) (Apache 2.0).
