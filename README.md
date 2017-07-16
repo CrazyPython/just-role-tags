@@ -12,15 +12,17 @@ Beautiful credits by and for developers.
 
 Desktop Apps:
 
-1. **Desktop/Mobile Apps:** Embed [ionicons.ttf](https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/fonts/ionicons.ttf) and [roboto-light.ttf](https://github.com/cdnjs/cdnjs/blob/master/ajax/libs/materialize/0.82/font/roboto/Roboto-Light.ttf?raw=true) on your computer/site/application.
+1. **Desktop/Mobile Apps:** Embed [ionicons.ttf](https://github.com/CrazyPython/ionicons-version-3-search/blob/master/fonts/ionicons.ttf?raw=true) and [roboto-light.ttf](https://github.com/cdnjs/cdnjs/blob/master/ajax/libs/materialize/0.82/font/roboto/Roboto-Light.ttf?raw=true) on your computer/site/application.
 
-   **Web Apps:** Embed [ionicons.min.css](https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css) (CDNJS) and [roboto-light.css](https://fonts.googleapis.com/css?family=Roboto:300) (Google Fonts).
+   **Web Apps:** Embed [ionicons.min.css](https://gitcdn.xyz/repo/CrazyPython/ionicons-version-3-search/master/css/ionicons.min.css)* and [roboto-light.css](https://fonts.googleapis.com/css?family=Roboto:300) (Google Fonts).
 
 2. Download [one of the SVGs](https://github.com/CrazyPython/just-credits/tree/master/assets).
 
 3. (optional) Edit the SVG code to use the role name of your choice.
 
 If this was useful to you, star this repo!
+
+*Gitcdn.xyz URL. Ionicons 3, the version used, is not known to be hosted on a major CDN. If you are running a production app, you should consider hosting it yourself.
 
 ##  Etc.
 
